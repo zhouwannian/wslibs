@@ -1,0 +1,36 @@
+.ws_console{
+    width: 100%;
+    height: 100px;
+    overflow-x: auto;
+}
+
+.ws_ctl{
+    width: 100%;
+    height: 80px;
+    background-color: antiquewhite;
+}
+
+.ws_ctl button{
+    width: 160px;
+    background-color: darkslateblue;
+    color: white;
+    font-size: 24px;
+    font-family: 微软雅黑;
+    border-radius: 8px;
+    border: solid 1px;
+}
+
+.ws_datahandle{
+    background-color: #009bff;
+    color: white;
+    height: 200px;
+    width: 100%;
+}
+
+.ws_console{
+    background-color: black;
+    color: white;
+    height: 200px;
+    width: 100%;
+}
+
