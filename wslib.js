@@ -31,6 +31,7 @@ var WS = function(param){
         debug : false
     };
 
+
     var orginWs = null;
 
     //属性合并
